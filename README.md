@@ -11,8 +11,8 @@ local gatherings.
 
 ### Community Infrastructure
 
-[community-infrastructure.svg here]
+![Community Infrastructure](./artwork/Community_Infrastructure.svg)
 
 ### Surveillance City
 
-[surveillance-city.svg here]
+![Surveillance City](./artwork/Surveillance_City.svg)
