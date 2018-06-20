@@ -5,11 +5,11 @@
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:krita="http://krita.org/namespaces/svg/krita"
     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    width="1296.72pt"
-    height="1296.72pt"
-    viewBox="0 0 1296.72 1296.72">
+    width="648.48pt"
+    height="864.48pt"
+    viewBox="0 0 648.48 864.48">
 <defs/>
-<g id="group0" transform="matrix(0.6439767076 0 0 0.64394282336 -2.0064236322 13.876864192)" fill="none">
+<g id="group0" transform="matrix(0.6439767076 0 0 0.64394282336 363.83999357 216.23999024)" fill="none">
   <path id="shape0111" transform="matrix(1.1159000772 0 0 1.0746625356 85.981682698 39.410451843)" fill="none" stroke="#000000" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M583.601 0L597.688 130.646C593.932 140.979 582.314 172.369 582.203 173.078C537.1 273.175 471.817 359.781 349.063 342.156C241.607 351.273 113.238 520.725 38.7131 971.468C37.4227 974.148 5.28 1135.56 0 1175.14"/>
   <path id="shape311" transform="matrix(-0.27021209156 0.035468057129 0.060161133848 0.32881448386 691.41985126 158.08974089)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M0 16.56L18.72 0L41.4 0.72L79.2 30.24L91.8 56.88L90 73.8L64.08 86.04L41.4 65.88L25.92 79.92L3.6 72.72L20.52 63.36L25.2 48.24L14.04 32.04Z"/>
   <path id="shape021" transform="matrix(-0.27021209156 0.035468057129 0.060161133848 0.32881448386 689.31104398 133.6788751)" fill="none" stroke="#000000" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel" d="M0.96 160.8L34.08 153.6L54.24 154.56L72.96 159.36L98.88 146.88L110.4 128.64L106.56 107.04L95.52 88.32L92.16 64.32L85.92 56.16L92.64 45.6L91.2 27.36L85.44 10.08L78.24 0L69.6 2.4L59.04 9.12L49.44 19.68L29.28 38.88L12.96 42.24L0 42.24Z"/>
